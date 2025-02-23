@@ -1,0 +1,541 @@
+[
+    {
+        "year": 2018,
+        "branches": {
+            "Civil": {
+                "OPEN": 154,
+                "SC": 3,
+                "ST": 1,
+                "OBC": 17,
+                "NT": 3,
+                "VJ": 1,
+                "SBC": 1
+            },
+            "Mechanical": {
+                "OPEN": 154,
+                "SC": 3,
+                "ST": 1,
+                "OBC": 17,
+                "NT": 3,
+                "VJ": 1,
+                "SBC": 1
+            },
+            "Electrical": {
+                "OPEN": 154,
+                "SC": 3,
+                "ST": 1,
+                "OBC": 17,
+                "NT": 3,
+                "VJ": 1,
+                "SBC": 1
+            },
+            "Chemical": {
+                "OPEN": 154,
+                "SC": 3,
+                "ST": 1,
+                "OBC": 17,
+                "NT": 3,
+                "VJ": 1,
+                "SBC": 1
+            },
+            "Computer": {
+                "OPEN": 102,
+                "SC": 2,
+                "ST": 1,
+                "OBC": 11,
+                "NT": 2,
+                "VJ": 1,
+                "SBC": 1
+            },
+            "IT": {
+                "OPEN": 102,
+                "SC": 2,
+                "ST": 1,
+                "OBC": 11,
+                "NT": 2,
+                "VJ": 1,
+                "SBC": 1
+            },
+            "AI & DS": {
+                "OPEN": 102,
+                "SC": 2,
+                "ST": 1,
+                "OBC": 11,
+                "NT": 2,
+                "VJ": 1,
+                "SBC": 1
+            },
+            "Data Science": {
+                "OPEN": 102,
+                "SC": 2,
+                "ST": 1,
+                "OBC": 11,
+                "NT": 2,
+                "VJ": 1,
+                "SBC": 1
+            }
+        }
+    },
+    {
+        "year": 2019,
+        "branches": {
+            "Civil": {
+                "OPEN": 146,
+                "SC": 3,
+                "ST": 1,
+                "OBC": 16,
+                "NT": 2,
+                "VJ": 1,
+                "SBC": 1
+            },
+            "Mechanical": {
+                "OPEN": 146,
+                "SC": 3,
+                "ST": 1,
+                "OBC": 16,
+                "NT": 2,
+                "VJ": 1,
+                "SBC": 1
+            },
+            "Electrical": {
+                "OPEN": 146,
+                "SC": 3,
+                "ST": 1,
+                "OBC": 16,
+                "NT": 2,
+                "VJ": 1,
+                "SBC": 1
+            },
+            "Chemical": {
+                "OPEN": 146,
+                "SC": 3,
+                "ST": 1,
+                "OBC": 16,
+                "NT": 2,
+                "VJ": 1,
+                "SBC": 1
+            },
+            "Computer": {
+                "OPEN": 111,
+                "SC": 2,
+                "ST": 1,
+                "OBC": 12,
+                "NT": 2,
+                "VJ": 1,
+                "SBC": 1
+            },
+            "IT": {
+                "OPEN": 111,
+                "SC": 2,
+                "ST": 1,
+                "OBC": 12,
+                "NT": 2,
+                "VJ": 1,
+                "SBC": 1
+            },
+            "AI & DS": {
+                "OPEN": 111,
+                "SC": 2,
+                "ST": 1,
+                "OBC": 12,
+                "NT": 2,
+                "VJ": 1,
+                "SBC": 1
+            },
+            "Data Science": {
+                "OPEN": 111,
+                "SC": 2,
+                "ST": 1,
+                "OBC": 12,
+                "NT": 2,
+                "VJ": 1,
+                "SBC": 1
+            }
+        }
+    },
+    {
+        "year": 2020,
+        "branches": {
+            "Civil": {
+                "OPEN": 139,
+                "SC": 3,
+                "ST": 1,
+                "OBC": 15,
+                "NT": 2,
+                "VJ": 1,
+                "SBC": 1
+            },
+            "Mechanical": {
+                "OPEN": 139,
+                "SC": 3,
+                "ST": 1,
+                "OBC": 15,
+                "NT": 2,
+                "VJ": 1,
+                "SBC": 1
+            },
+            "Electrical": {
+                "OPEN": 139,
+                "SC": 3,
+                "ST": 1,
+                "OBC": 15,
+                "NT": 2,
+                "VJ": 1,
+                "SBC": 1
+            },
+            "Chemical": {
+                "OPEN": 139,
+                "SC": 3,
+                "ST": 1,
+                "OBC": 15,
+                "NT": 2,
+                "VJ": 1,
+                "SBC": 1
+            },
+            "Computer": {
+                "OPEN": 118,
+                "SC": 2,
+                "ST": 1,
+                "OBC": 13,
+                "NT": 2,
+                "VJ": 1,
+                "SBC": 1
+            },
+            "IT": {
+                "OPEN": 118,
+                "SC": 2,
+                "ST": 1,
+                "OBC": 13,
+                "NT": 2,
+                "VJ": 1,
+                "SBC": 1
+            },
+            "AI & DS": {
+                "OPEN": 118,
+                "SC": 2,
+                "ST": 1,
+                "OBC": 13,
+                "NT": 2,
+                "VJ": 1,
+                "SBC": 1
+            },
+            "Data Science": {
+                "OPEN": 118,
+                "SC": 2,
+                "ST": 1,
+                "OBC": 13,
+                "NT": 2,
+                "VJ": 1,
+                "SBC": 1
+            }
+        }
+    },
+    {
+        "year": 2021,
+        "branches": {
+            "Civil": {
+                "OPEN": 131,
+                "SC": 3,
+                "ST": 1,
+                "OBC": 14,
+                "NT": 2,
+                "VJ": 1,
+                "SBC": 1
+            },
+            "Mechanical": {
+                "OPEN": 131,
+                "SC": 3,
+                "ST": 1,
+                "OBC": 14,
+                "NT": 2,
+                "VJ": 1,
+                "SBC": 1
+            },
+            "Electrical": {
+                "OPEN": 131,
+                "SC": 3,
+                "ST": 1,
+                "OBC": 14,
+                "NT": 2,
+                "VJ": 1,
+                "SBC": 1
+            },
+            "Chemical": {
+                "OPEN": 131,
+                "SC": 3,
+                "ST": 1,
+                "OBC": 14,
+                "NT": 2,
+                "VJ": 1,
+                "SBC": 1
+            },
+            "Computer": {
+                "OPEN": 126,
+                "SC": 2,
+                "ST": 1,
+                "OBC": 14,
+                "NT": 2,
+                "VJ": 1,
+                "SBC": 1
+            },
+            "IT": {
+                "OPEN": 126,
+                "SC": 2,
+                "ST": 1,
+                "OBC": 14,
+                "NT": 2,
+                "VJ": 1,
+                "SBC": 1
+            },
+            "AI & DS": {
+                "OPEN": 126,
+                "SC": 2,
+                "ST": 1,
+                "OBC": 14,
+                "NT": 2,
+                "VJ": 1,
+                "SBC": 1
+            },
+            "Data Science": {
+                "OPEN": 126,
+                "SC": 2,
+                "ST": 1,
+                "OBC": 14,
+                "NT": 2,
+                "VJ": 1,
+                "SBC": 1
+            }
+        }
+    },
+    {
+        "year": 2022,
+        "branches": {
+            "Civil": {
+                "OPEN": 124,
+                "SC": 2,
+                "ST": 1,
+                "OBC": 13,
+                "NT": 2,
+                "VJ": 1,
+                "SBC": 1
+            },
+            "Mechanical": {
+                "OPEN": 124,
+                "SC": 2,
+                "ST": 1,
+                "OBC": 13,
+                "NT": 2,
+                "VJ": 1,
+                "SBC": 1
+            },
+            "Electrical": {
+                "OPEN": 124,
+                "SC": 2,
+                "ST": 1,
+                "OBC": 13,
+                "NT": 2,
+                "VJ": 1,
+                "SBC": 1
+            },
+            "Chemical": {
+                "OPEN": 124,
+                "SC": 2,
+                "ST": 1,
+                "OBC": 13,
+                "NT": 2,
+                "VJ": 1,
+                "SBC": 1
+            },
+            "Computer": {
+                "OPEN": 134,
+                "SC": 3,
+                "ST": 1,
+                "OBC": 14,
+                "NT": 2,
+                "VJ": 1,
+                "SBC": 1
+            },
+            "IT": {
+                "OPEN": 134,
+                "SC": 3,
+                "ST": 1,
+                "OBC": 14,
+                "NT": 2,
+                "VJ": 1,
+                "SBC": 1
+            },
+            "AI & DS": {
+                "OPEN": 134,
+                "SC": 3,
+                "ST": 1,
+                "OBC": 14,
+                "NT": 2,
+                "VJ": 1,
+                "SBC": 1
+            },
+            "Data Science": {
+                "OPEN": 134,
+                "SC": 3,
+                "ST": 1,
+                "OBC": 14,
+                "NT": 2,
+                "VJ": 1,
+                "SBC": 1
+            }
+        }
+    },
+    {
+        "year": 2023,
+        "branches": {
+            "Civil": {
+                "OPEN": 116,
+                "SC": 2,
+                "ST": 1,
+                "OBC": 12,
+                "NT": 2,
+                "VJ": 1,
+                "SBC": 1
+            },
+            "Mechanical": {
+                "OPEN": 116,
+                "SC": 2,
+                "ST": 1,
+                "OBC": 12,
+                "NT": 2,
+                "VJ": 1,
+                "SBC": 1
+            },
+            "Electrical": {
+                "OPEN": 116,
+                "SC": 2,
+                "ST": 1,
+                "OBC": 12,
+                "NT": 2,
+                "VJ": 1,
+                "SBC": 1
+            },
+            "Chemical": {
+                "OPEN": 116,
+                "SC": 2,
+                "ST": 1,
+                "OBC": 12,
+                "NT": 2,
+                "VJ": 1,
+                "SBC": 1
+            },
+            "Computer": {
+                "OPEN": 142,
+                "SC": 3,
+                "ST": 1,
+                "OBC": 15,
+                "NT": 2,
+                "VJ": 1,
+                "SBC": 1
+            },
+            "IT": {
+                "OPEN": 142,
+                "SC": 3,
+                "ST": 1,
+                "OBC": 15,
+                "NT": 2,
+                "VJ": 1,
+                "SBC": 1
+            },
+            "AI & DS": {
+                "OPEN": 142,
+                "SC": 3,
+                "ST": 1,
+                "OBC": 15,
+                "NT": 2,
+                "VJ": 1,
+                "SBC": 1
+            },
+            "Data Science": {
+                "OPEN": 142,
+                "SC": 3,
+                "ST": 1,
+                "OBC": 15,
+                "NT": 2,
+                "VJ": 1,
+                "SBC": 1
+            }
+        }
+    },
+    {
+        "year": 2024,
+        "branches": {
+            "Civil": {
+                "OPEN": 107,
+                "SC": 2,
+                "ST": 1,
+                "OBC": 12,
+                "NT": 2,
+                "VJ": 1,
+                "SBC": 1
+            },
+            "Mechanical": {
+                "OPEN": 107,
+                "SC": 2,
+                "ST": 1,
+                "OBC": 12,
+                "NT": 2,
+                "VJ": 1,
+                "SBC": 1
+            },
+            "Electrical": {
+                "OPEN": 107,
+                "SC": 2,
+                "ST": 1,
+                "OBC": 12,
+                "NT": 2,
+                "VJ": 1,
+                "SBC": 1
+            },
+            "Chemical": {
+                "OPEN": 107,
+                "SC": 2,
+                "ST": 1,
+                "OBC": 12,
+                "NT": 2,
+                "VJ": 1,
+                "SBC": 1
+            },
+            "Computer": {
+                "OPEN": 150,
+                "SC": 3,
+                "ST": 1,
+                "OBC": 16,
+                "NT": 2,
+                "VJ": 1,
+                "SBC": 1
+            },
+            "IT": {
+                "OPEN": 150,
+                "SC": 3,
+                "ST": 1,
+                "OBC": 16,
+                "NT": 2,
+                "VJ": 1,
+                "SBC": 1
+            },
+            "AI & DS": {
+                "OPEN": 150,
+                "SC": 3,
+                "ST": 1,
+                "OBC": 16,
+                "NT": 2,
+                "VJ": 1,
+                "SBC": 1
+            },
+            "Data Science": {
+                "OPEN": 150,
+                "SC": 3,
+                "ST": 1,
+                "OBC": 16,
+                "NT": 2,
+                "VJ": 1,
+                "SBC": 1
+            }
+        }
+    }
+]

@@ -1,0 +1,152 @@
+{
+    "1": {
+      "url": "https://firebasestorage.googleapis.com/v0/b/tsec-app.appspot.com/o/syllabus%2FFE%20SEM%201.pdf?alt=media&token=991b935d-48d5-4042-845c-1894068af963",
+      "subjects": [
+        {"Engineering Mathematics-I": 3},
+        {"Engineering Physics-I": 3},
+        {"Engineering Chemistry-I": 3},
+        {"Engineering Mechanics": 3},
+        {"Basic Electrical Engineering": 3}
+      ],
+      "labs": [
+        {"Engineering Physics-I Laboratory": 1},
+        {"Engineering Chemistry-I Laboratory": 1},
+        {"Basic Electrical Engineering Laboratory": 1},
+        {"Engineering Mechanics Laboratory": 1}
+      ]
+    },
+    "2": {
+      "url": "https://firebasestorage.googleapis.com/v0/b/tsec-app.appspot.com/o/syllabus%2FFE%20SEM%202.pdf?alt=media&token=b6ed621c-e66c-4b27-b371-f237c9fb14a4",
+      "subjects": [
+        {"Engineering Mathematics-II": 3},
+        {"Engineering Physics-II": 3},
+        {"Engineering Chemistry-II": 3},
+        {"Engineering Graphics": 3},
+        {"C Programming": 3},
+        {"Professional Communication and Ethics-I": 2}
+      ],
+      "labs": [
+        {"C Programming Laboratory": 2},
+        {"Engineering Graphics Laboratory": 2}
+      ]
+    },
+    "3": {
+      "url": "https://firebasestorage.googleapis.com/v0/b/tsec-app.appspot.com/o/syllabus%2FEXTC%20SEM%203.pdf?alt=media&token=5677d7ee-9025-4a63-9fdc-36d2b3db37b2",
+      "subjects": [
+        {"Engineering Mathematics-III": 3},
+        {"Electronic Devices & Circuits": 3},
+        {"Digital System Design": 3},
+        {"Network Theory": 3},
+        {"Electronic Instrumentation & Control Systems": 3}
+      ],
+      "labs": [
+        {"Electronic Devices & Circuits Laboratory": 2},
+        {"Digital System Design Laboratory": 2},
+        {"Network Theory Laboratory": 2}
+      ]
+    },
+    "4": {
+      "url": "https://firebasestorage.googleapis.com/v0/b/tsec-app.appspot.com/o/syllabus%2FEXTC%20SEM%204.pdf?alt=media&token=127a7d9e-378d-4131-b614-eae916d3ad9b",
+      "subjects": [
+        {"Engineering Mathematics-IV": 3},
+        {"Microcontrollers": 3},
+        {"Linear Integrated Circuits": 3},
+        {"Signals & Systems": 3},
+        {"Principles of Communication Engineering": 3}
+      ],
+      "labs": [
+        {"Microcontrollers Laboratory": 2},
+        {"Linear Integrated Circuits Laboratory": 2},
+        {"Signals & Systems Laboratory": 2}
+      ]
+    },
+    "5": {
+      "url": "https://firebasestorage.googleapis.com/v0/b/tsec-app.appspot.com/o/syllabus%2FEXTC%20SEM%205.pdf?alt=media&token=b378f55c-497a-470d-b410-36f3f8d6c0a3",
+      "subjects": [
+        {"Digital Communication": 3},
+        {"Discrete Time Signal Processing": 3},
+        {"Digital VLSI": 3},
+        {"Random Signal Analysis": 3},
+        {"Digital and IPTV Engineering": 3},
+        {"Data Compression and Cryptography": 3},
+        {"IT Infrastructure and Security": 3},
+        {"Data Structures and Algorithms": 3},
+        {"Sensor Technology": 3}
+      ],
+      "labs": [
+        {"Digital Communication Laboratory": 2},
+        {"VLSI Laboratory": 2}
+      ]
+    },
+    "6": {
+      "url": "https://firebasestorage.googleapis.com/v0/b/tsec-app.appspot.com/o/syllabus%2FEXTC%20SEM%206.pdf?alt=media&token=28530dcd-afb3-46cf-ab89-5091ea6cbca5",
+      "subjects": [
+        {"Electromagnetics and Antenna": 3},
+        {"Computer Communication Networks": 3},
+        {"Image Processing and Machine Vision": 3},
+        {"Artificial Neural Network and Fuzzy Logic": 3},
+        {"Mixed Signal VLSI": 3},
+        {"Computer Organization and Architecture": 3},
+        {"Digital Forensics": 3},
+        {"Database Management System": 3},
+        {"IoT and Industry 4.0": 3},
+        {"Radar Engineering": 3}
+      ],
+      "labs": [
+        {"Computer Networks Laboratory": 2},
+        {"Image Processing Laboratory": 2}
+      ]
+    },
+    "7": {
+      "url": "https://firebasestorage.googleapis.com/v0/b/tsec-app.appspot.com/o/syllabus%2FEXTC%20SEM%207.pdf?alt=media&token=5151767b-913d-4fea-ba1a-ead0a6b9c4e1",
+      "subjects": [
+        {"Microwave Engineering": 3},
+        {"Mobile Communication System": 3},
+        {"Optical Communication": 3},
+        {"Neural Networks and Fuzzy Logic": 3},
+        {"Big Data Analytics": 3},
+        {"Internet Communication Engineering": 3},
+        {"CMOS Mixed Signal VLSI": 3},
+        {"Embedded System": 3},
+        {"Product Lifecycle Management": 3},
+        {"Reliability Engineering": 3},
+        {"Management Information System": 3},
+        {"Design of Experiments": 3},
+        {"Operation Research": 3},
+        {"Cyber Security and Laws": 3},
+        {"Disaster Management and Mitigation Measures": 3},
+        {"Energy Audit and Management": 3},
+        {"Development Engineering": 3}
+      ],
+      "labs": [
+        {"Microwave Engineering Laboratory": 2},
+        {"Mobile Communication Laboratory": 2},
+        {"Embedded Systems Laboratory": 2}
+      ]
+    },
+    "8": {
+      "url": "https://firebasestorage.googleapis.com/v0/b/tsec-app.appspot.com/o/syllabus%2FEXTC%20SEM%208.pdf?alt=media&token=7ef1d0b9-48eb-49c8-b4d0-5c72c74c86f8",
+      "subjects": [
+        {"RF Design": 3},
+        {"Wireless Networks": 3},
+        {"Optical Networks": 3},
+        {"Advanced Data Signal Processing": 3},
+        {"Satellite Communication": 3},
+        {"Network Management in Telecommunication": 3},
+        {"Project Management": 3},
+        {"Finance Management": 3},
+        {"Entrepreneurship Development and Management": 3},
+        {"Human Resource Management": 3},
+        {"Professional Ethics and Corporate Social Responsibility": 3},
+        {"Research Methodology": 3},
+        {"IPR and Patenting": 3},
+        {"Digital Business Management": 3},
+        {"Environmental Management": 3}
+      ],
+      "labs": [
+        {"Wireless Networks Laboratory": 2},
+        {"Satellite Communication Laboratory": 2}
+      ]
+    }
+  }
+  

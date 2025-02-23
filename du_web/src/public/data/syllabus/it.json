@@ -1,0 +1,153 @@
+{
+    "1": {
+      "url": "https://firebasestorage.googleapis.com/v0/b/tsec-app.appspot.com/o/syllabus%2FFE%20SEM%201.pdf?alt=media&token=991b935d-48d5-4042-845c-1894068af963",
+      "subjects": [
+        {"Engineering Mathematics-I": 3},
+        {"Engineering Physics-I": 3},
+        {"Engineering Chemistry-I": 3},
+        {"Engineering Mechanics": 3},
+        {"Basic Electrical Engineering": 3}
+      ],
+      "labs": [
+        {"Engineering Physics-I Laboratory": 1},
+        {"Engineering Chemistry-I Laboratory": 1},
+        {"Basic Electrical Engineering Laboratory": 1},
+        {"Engineering Mechanics Laboratory": 1}
+      ]
+    },
+    "2": {
+      "url": "https://firebasestorage.googleapis.com/v0/b/tsec-app.appspot.com/o/syllabus%2FFE%20SEM%202.pdf?alt=media&token=b6ed621c-e66c-4b27-b371-f237c9fb14a4",
+      "subjects": [
+        {"Engineering Mathematics-II": 3},
+        {"Engineering Physics-II": 3},
+        {"Engineering Chemistry-II": 3},
+        {"Engineering Graphics": 3},
+        {"C Programming": 3},
+        {"Professional Communication and Ethics-I": 2}
+      ],
+      "labs": [
+        {"C Programming Laboratory": 2},
+        {"Engineering Graphics Laboratory": 2}
+      ]
+    },
+    "3": {
+      "url": "https://firebasestorage.googleapis.com/v0/b/tsec-app.appspot.com/o/syllabus%2FIT%20SEM%203%20AND%204.pdf?alt=media&token=d27b3b8d-14ae-4c51-93e2-ad6f4f2cccc5",
+      "subjects": [
+        {"Engineering Mathematics-III": 3},
+        {"Data Structures and Analysis": 3},
+        {"Database Management System": 3},
+        {"Principle of Communication": 3},
+        {"Paradigms and Computer Programming Fundamentals": 3}
+      ],
+      "labs": [
+        {"Java Laboratory": 2},
+        {"Data Structures Laboratory": 2},
+        {"Database Management System Laboratory": 2}
+      ]
+    },
+    "4": {
+      "url": "https://firebasestorage.googleapis.com/v0/b/tsec-app.appspot.com/o/syllabus%2FIT%20SEM%203%20AND%204.pdf?alt=media&token=d27b3b8d-14ae-4c51-93e2-ad6f4f2cccc5",
+      "subjects": [
+        {"Engineering Mathematics-IV": 3},
+        {"Computer Network and Network Design": 3},
+        {"Operating System": 3},
+        {"Automata Theory": 3},
+        {"Computer Organization and Architecture": 3}
+      ],
+      "labs": [
+        {"Python Laboratory": 2},
+        {"Operating System Laboratory": 2},
+        {"Computer Networks Laboratory": 2}
+      ]
+    },
+    "5": {
+      "url": "https://firebasestorage.googleapis.com/v0/b/tsec-app.appspot.com/o/syllabus%2FIT%20SEM%205.pdf?alt=media&token=77de6e0e-9e92-4be7-bbdb-f862efe702bf",
+      "subjects": [
+        {"Internet Programming": 3},
+        {"Computer Network Security": 3},
+        {"Entrepreneurship and E-Business": 3},
+        {"Software Engineering": 3},
+        {"Microcontroller Embedded Programming": 3},
+        {"Advanced Data Management Technologies": 3},
+        {"Computer Graphics & Multimedia System": 3},
+        {"Advanced Data Structures and Analysis": 3}
+      ],
+      "labs": [
+        {"Internet Programming Laboratory": 2},
+        {"Computer Graphics Laboratory": 2},
+        {"Network Security Laboratory": 2}
+      ]
+    },
+    "6": {
+      "url": "https://firebasestorage.googleapis.com/v0/b/tsec-app.appspot.com/o/syllabus%2FIT%20SEM%206.pdf?alt=media&token=2ce2dc09-7959-4c0b-9ae8-9e1f36ebe878",
+      "subjects": [
+        {"Data Mining & Business Intelligence": 3},
+        {"Web X.0": 3},
+        {"Wireless Technology": 3},
+        {"AI and DS – 1": 3},
+        {"Software Architecture": 3},
+        {"Image Processing": 3},
+        {"Green IT": 3},
+        {"Ethical Hacking and Forensic": 3}
+      ],
+      "labs": [
+        {"Data Mining Laboratory": 2},
+        {"Wireless Technology Laboratory": 2},
+        {"Ethical Hacking Laboratory": 2}
+      ]
+    },
+    "7": {
+      "url": "https://firebasestorage.googleapis.com/v0/b/tsec-app.appspot.com/o/syllabus%2FIT%20SEM%207.pdf?alt=media&token=3de28cf9-9961-43df-b3b0-cc6a1396b095",
+      "subjects": [
+        {"Enterprise Network Design": 3},
+        {"Infrastructure Security": 3},
+        {"Artificial Intelligence": 3},
+        {"Storage Area Networks": 3},
+        {"Mobile Application Development": 3},
+        {"High Performance Computing": 3},
+        {"Software Testing and Quality Assurance": 3},
+        {"Soft Computing": 3},
+        {"Product Lifecycle Management": 3},
+        {"Reliability Engineering": 3},
+        {"Management Information System": 3},
+        {"Design of Experiments": 3},
+        {"Operation Research": 3},
+        {"Cyber Security and Laws": 3},
+        {"Disaster Management and Mitigation Measures": 3},
+        {"Energy Audit and Management": 3},
+        {"Development Engineering": 3}
+      ],
+      "labs": [
+        {"Mobile Application Development Laboratory": 2},
+        {"Software Testing Laboratory": 2},
+        {"AI Laboratory": 2}
+      ]
+    },
+    "8": {
+      "url": "https://firebasestorage.googleapis.com/v0/b/tsec-app.appspot.com/o/syllabus%2FIT%20SEM%208.pdf?alt=media&token=7caf9bfc-6781-46b2-8f9a-069b5725f975",
+      "subjects": [
+        {"Big Data Analytics": 3},
+        {"Internet Of Everything": 3},
+        {"User Interaction Design": 3},
+        {"Information Retrieval Systems": 3},
+        {"Knowledge Management": 3},
+        {"Robotics": 3},
+        {"Enterprise Resource Planning": 3},
+        {"Project Management": 3},
+        {"Finance Management": 3},
+        {"Entrepreneurship Development and Management": 3},
+        {"Human Resource Management": 3},
+        {"Professional Ethics and Corporate Social Responsibility": 3},
+        {"Research Methodology": 3},
+        {"IPR and Patenting": 3},
+        {"Digital Business Management": 3},
+        {"Environmental Management": 3}
+      ],
+      "labs": [
+        {"Big Data Analytics Laboratory": 2},
+        {"Robotics Laboratory": 2},
+        {"Enterprise Resource Planning Laboratory": 2}
+      ]
+    }
+  }
+  

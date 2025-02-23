@@ -1,0 +1,122 @@
+{
+    "1": {
+      "url": "https://firebasestorage.googleapis.com/v0/b/tsec-app.appspot.com/o/syllabus%2FFE%20SEM%201.pdf?alt=media&token=991b935d-48d5-4042-845c-1894068af963",
+      "subjects": [
+        {"Engineering Mathematics-I": 3},
+        {"Engineering Physics-I": 3},
+        {"Engineering Chemistry-I": 3},
+        {"Engineering Mechanics": 3},
+        {"Basic Electrical Engineering": 3}
+      ],
+      "labs": [
+        {"Engineering Physics-I Laboratory": 1},
+        {"Engineering Chemistry-I Laboratory": 1},
+        {"Basic Electrical Engineering Laboratory": 1},
+        {"Engineering Mechanics Laboratory": 1}
+      ]
+    },
+    "2": {
+      "url": "https://firebasestorage.googleapis.com/v0/b/tsec-app.appspot.com/o/syllabus%2FFE%20SEM%202.pdf?alt=media&token=b6ed621c-e66c-4b27-b371-f237c9fb14a4",
+      "subjects": [
+        {"Engineering Mathematics-II": 3},
+        {"Engineering Physics-II": 3},
+        {"Engineering Chemistry-II": 3},
+        {"Engineering Graphics": 3},
+        {"C Programming": 3},
+        {"Professional Communication and Ethics-I": 2}
+      ],
+      "labs": [
+        {"C Programming Laboratory": 2},
+        {"Engineering Graphics Laboratory": 2}
+      ]
+    },
+    "3": {
+      "url": "https://firebasestorage.googleapis.com/v0/b/tsec-app.appspot.com/o/syllabus%2Fchemical_sem3_rev.pdf?alt=media&token=1a11ddb3-9884-42d8-931a-5cc7d84f72b4",
+      "subjects": [
+        {"Engineering Mathematics-III": 3},
+        {"Industrial and Engineering Chemistry I": 3},
+        {"Fluid Flow Operations": 3},
+        {"Chemical Engineering Thermodynamics I": 3},
+        {"Process Calculations": 3}
+      ],
+      "labs": [
+        {"Fluid Flow Operations Laboratory": 2},
+        {"Chemical Engineering Thermodynamics Laboratory": 2}
+      ]
+    },
+    "4": {
+      "url": "https://firebasestorage.googleapis.com/v0/b/tsec-app.appspot.com/o/syllabus%2Fchemical_sem4_rev.pdf?alt=media&token=65a3ba7a-c123-4405-9581-e5990e39f943",
+      "subjects": [
+        {"Engineering Mathematics-IV": 3},
+        {"Industrial and Engineering Chemistry II": 3},
+        {"Numerical Method in Chemical Engineering": 3},
+        {"Solid Fluid Mechanical Operations": 3},
+        {"Chemical Engineering Thermodynamics II": 3}
+      ],
+      "labs": [
+        {"Numerical Method Laboratory": 2},
+        {"Solid Fluid Mechanical Operations Laboratory": 2}
+      ]
+    },
+    "5": {
+      "url": "https://firebasestorage.googleapis.com/v0/b/tsec-app.appspot.com/o/syllabus%2Fchemical_sem5_sem6_rev.pdf?alt=media&token=3c027231-bc5c-40af-9e64-fbf438646a20",
+      "subjects": [
+        {"Mass Transfer Operations-I": 3},
+        {"Heat Transfer Operations": 3},
+        {"Chemical Reaction Engineering-I": 3},
+        {"Transport Phenomena": 3},
+        {"Food Technology": 3},
+        {"Advanced Material Sciences": 3},
+        {"Total Quality Management": 3}
+      ],
+      "labs": [
+        {"Mass Transfer Laboratory": 2},
+        {"Heat Transfer Laboratory": 2}
+      ]
+    },
+    "6": {
+      "url": "https://firebasestorage.googleapis.com/v0/b/tsec-app.appspot.com/o/syllabus%2Fchemical_sem5_sem6_rev.pdf?alt=media&token=3c027231-bc5c-40af-9e64-fbf438646a20",
+      "subjects": [
+        {"Mass Transfer Operation II": 3},
+        {"Chemical Reaction Engineering II": 3},
+        {"Pollution Control Technology": 3},
+        {"Process Engineering and Economics": 3},
+        {"Piping Engineering": 3},
+        {"Polymer Technology": 3},
+        {"Industrial Organization and Management": 3}
+      ],
+      "labs": [
+        {"Chemical Reaction Engineering Laboratory": 2},
+        {"Piping Engineering Laboratory": 2}
+      ]
+    },
+    "7": {
+      "url": "https://firebasestorage.googleapis.com/v0/b/tsec-app.appspot.com/o/syllabus%2Fchem_sem3_sem8.pdf?alt=media&token=43b70738-b540-4f38-b356-d9dbf7a360f8",
+      "subjects": [
+        {"Process Equipment Design": 3},
+        {"Process Engineering": 3},
+        {"Process Dynamics and Control": 3},
+        {"Department Elective III": 3},
+        {"Institute Elective I": 3}
+      ],
+      "labs": [
+        {"Process Equipment Design Laboratory": 2},
+        {"Process Control Laboratory": 2}
+      ]
+    },
+    "8": {
+      "url": "https://firebasestorage.googleapis.com/v0/b/tsec-app.appspot.com/o/syllabus%2Fchemical_sem8_rev.pdf?alt=media&token=57a1b7c6-905e-43d8-b0a5-6f2f67f4a7c3",
+      "subjects": [
+        {"Modeling, Simulation & Optimization": 3},
+        {"Project Engineering & Entrepreneurship Management": 3},
+        {"Energy System Design": 3},
+        {"Department Elective IV": 3},
+        {"Institute Elective II": 3}
+      ],
+      "labs": [
+        {"Simulation & Optimization Laboratory": 2},
+        {"Energy System Design Laboratory": 2}
+      ]
+    }
+  }
+  

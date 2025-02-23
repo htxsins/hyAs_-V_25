@@ -1,0 +1,89 @@
+{
+    "Infrastructure_By_Branch": {
+      "CHEM": {
+        "Classrooms": 6,
+        "Labs": {
+          "Chemical_Reaction_Engineering_Lab": 1,
+          "Process_Control_Instrumentation_Lab": 1,
+          "Heat_Transfer_Lab": 1,
+          "Mass_Transfer_Lab": 1,
+          "Fluid_Mechanics_Lab": 1
+        },
+        "Computers": 20,
+        "Equipment": ["Reactors", "Distillation Columns", "Heat Exchangers", "Control Valves"]
+      },
+      "CIVIL": {
+        "Classrooms": 6,
+        "Labs": {
+          "Structural_Engineering_Lab": 1,
+          "Geotechnical_Engineering_Lab": 1,
+          "Concrete_Material_Testing_Lab": 1,
+          "Transportation_Engineering_Lab": 1,
+          "Environmental_Engineering_Lab": 1
+        },
+        "Computers": 25,
+        "Equipment": ["Universal Testing Machine", "Soil Testing Kit", "Concrete Mixers", "Surveying Instruments"]
+      },
+      "COMPS": {
+        "Classrooms": 10,
+        "Labs": {
+          "Programming_Lab": 2,
+            "AI_Machine_Learning_Lab": 1,
+          "Data_Science_Big_Data_Lab": 1,
+          "Cybersecurity_Ethical_Hacking_Lab": 1,
+          "IoT_Cloud_Computing_Lab": 1
+        },
+        "Computers": 250,
+        "Equipment": ["High-Performance Servers", "AI GPUs", "IoT Kits", "Cybersecurity Firewalls"]
+      },
+      "IT": {
+        "Classrooms": 10,
+        "Labs": {
+          "Programming_Lab": 2,
+            "AI_Machine_Learning_Lab": 1,
+          "Data_Science_Big_Data_Lab": 1,
+          "Cybersecurity_Ethical_Hacking_Lab": 1,
+          "IoT_Cloud_Computing_Lab": 1
+        },
+        "Computers": 250,
+        "Equipment": ["High-Performance Servers", "AI GPUs", "IoT Kits", "Cybersecurity Firewalls"]
+      },
+      "AIDS": {
+        "Classrooms": 10,
+        "Labs": {
+          "Programming_Lab": 2,
+            "AI_Machine_Learning_Lab": 1,
+          "Data_Science_Big_Data_Lab": 1,
+          "Cybersecurity_Ethical_Hacking_Lab": 1,
+          "IoT_Cloud_Computing_Lab": 1
+        },
+        "Computers": 250,
+        "Equipment": ["High-Performance Servers", "AI GPUs", "IoT Kits", "Cybersecurity Firewalls"]
+      },
+      "EXTC": {
+        "Classrooms": 6,
+        "Labs": {
+          "Power_Systems_Lab": 1,
+          "Electrical_Machines_Lab": 1,
+          "Control_Systems_Lab": 1,
+          "High_Voltage_Protection_Lab": 1,
+          "Embedded_Systems_Microcontrollers_Lab": 1
+        },
+        "Computers": 40,
+        "Equipment": ["Transformers", "Oscilloscopes", "Microcontrollers", "Motors"]
+      },
+      "MECH": {
+        "Classrooms": 8,
+        "Labs": {
+          "Thermodynamics_Lab": 1,
+          "Fluid_Mechanics_Lab": 1,
+          "Manufacturing_Workshop": 1,
+          "CAD_CAM_Lab": 1,
+          "Mechatronics_Robotics_Lab": 1
+        },
+        "Computers": 50,
+        "Equipment": ["CNC Machines", "Lathe Machines", "3D Printers", "Robotic Arms"]
+      }
+    }
+  }
+  

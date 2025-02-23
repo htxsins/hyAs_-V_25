@@ -1,0 +1,117 @@
+{
+    "1": {
+      "url": "https://example.com/mechanical_sem1.pdf",
+      "subjects": [
+        {"Engineering Mathematics-I": 3},
+        {"Engineering Physics-I": 3},
+        {"Engineering Chemistry-I": 3},
+        {"Engineering Mechanics": 3},
+        {"Basic Mechanical Engineering": 3}
+      ],
+      "labs": [
+        {"Engineering Physics Laboratory": 1},
+        {"Engineering Chemistry Laboratory": 1},
+        {"Engineering Mechanics Laboratory": 1},
+        {"Basic Mechanical Workshop": 1}
+      ]
+    },
+    "2": {
+      "url": "https://example.com/mechanical_sem2.pdf",
+      "subjects": [
+        {"Engineering Mathematics-II": 3},
+        {"Engineering Physics-II": 3},
+        {"Engineering Chemistry-II": 3},
+        {"Engineering Graphics": 3},
+        {"Thermodynamics": 3},
+        {"Professional Communication and Ethics-I": 2}
+      ],
+      "labs": [
+        {"Thermodynamics Laboratory": 1},
+        {"Engineering Graphics Laboratory": 2}
+      ]
+    },
+    "3": {
+      "url": "https://example.com/mechanical_sem3.pdf",
+      "subjects": [
+        {"Engineering Mathematics-III": 3},
+        {"Strength of Materials": 3},
+        {"Manufacturing Processes-I": 3},
+        {"Fluid Mechanics": 3},
+        {"Kinematics of Machines": 3}
+      ],
+      "labs": [
+        {"Strength of Materials Laboratory": 1},
+        {"Fluid Mechanics Laboratory": 1},
+        {"Manufacturing Processes Laboratory": 1}
+      ]
+    },
+    "4": {
+      "url": "https://example.com/mechanical_sem4.pdf",
+      "subjects": [
+        {"Engineering Mathematics-IV": 3},
+        {"Theory of Machines": 3},
+        {"Manufacturing Processes-II": 3},
+        {"Heat and Mass Transfer": 3},
+        {"Applied Thermodynamics": 3}
+      ],
+      "labs": [
+        {"Theory of Machines Laboratory": 1},
+        {"Heat and Mass Transfer Laboratory": 1}
+      ]
+    },
+    "5": {
+      "url": "https://example.com/mechanical_sem5.pdf",
+      "subjects": [
+        {"Design of Machine Elements-I": 3},
+        {"Internal Combustion Engines": 3},
+        {"Dynamics of Machines": 3},
+        {"Automobile Engineering": 3},
+        {"Elective-I": 3}
+      ],
+      "labs": [
+        {"IC Engines Laboratory": 1},
+        {"Dynamics of Machines Laboratory": 1}
+      ]
+    },
+    "6": {
+      "url": "https://example.com/mechanical_sem6.pdf",
+      "subjects": [
+        {"Design of Machine Elements-II": 3},
+        {"Refrigeration and Air Conditioning": 3},
+        {"Mechatronics": 3},
+        {"Finite Element Analysis": 3},
+        {"Elective-II": 3}
+      ],
+      "labs": [
+        {"Mechatronics Laboratory": 1},
+        {"Refrigeration and Air Conditioning Laboratory": 1}
+      ]
+    },
+    "7": {
+      "url": "https://example.com/mechanical_sem7.pdf",
+      "subjects": [
+        {"Robotics and Automation": 3},
+        {"Industrial Engineering": 3},
+        {"Power Plant Engineering": 3},
+        {"Advanced Manufacturing Technology": 3},
+        {"Elective-III": 3}
+      ],
+      "labs": [
+        {"Robotics Laboratory": 1}
+      ]
+    },
+    "8": {
+      "url": "https://example.com/mechanical_sem8.pdf",
+      "subjects": [
+        {"Renewable Energy Systems": 3},
+        {"Product Design and Development": 3},
+        {"Project Management": 3},
+        {"Professional Ethics and Corporate Social Responsibility": 2},
+        {"Elective-IV": 3}
+      ],
+      "labs": [
+        {"Major Project": 4}
+      ]
+    }
+  }
+  

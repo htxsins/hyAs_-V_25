@@ -1,0 +1,126 @@
+{
+    "1": {
+      "url": "https://firebasestorage.googleapis.com/v0/b/tsec-app.appspot.com/o/syllabus%2FFE%20SEM%201.pdf?alt=media&token=991b935d-48d5-4042-845c-1894068af963",
+      "subjects": [
+        {"Engineering Mathematics-I": 4},
+        {"Engineering Physics-I": 3},
+        {"Engineering Chemistry-I": 3},
+        {"Engineering Mechanics": 3},
+        {"Basic Electrical Engineering": 3}
+      ],
+      "labs": [
+        {"Physics Laboratory-I": 2},
+        {"Chemistry Laboratory-I": 2},
+        {"Engineering Mechanics Laboratory": 2},
+        {"Basic Electrical Engineering Laboratory": 2}
+      ]
+    },
+    "2": {
+      "url": "https://firebasestorage.googleapis.com/v0/b/tsec-app.appspot.com/o/syllabus%2FFE%20SEM%202.pdf?alt=media&token=b6ed621c-e66c-4b27-b371-f237c9fb14a4",
+      "subjects": [
+        {"Engineering Mathematics-II": 4},
+        {"Engineering Physics-II": 3},
+        {"Engineering Chemistry-II": 3},
+        {"Engineering Graphics": 3},
+        {"C Programming": 3},
+        {"Professional Communication and Ethics-I": 2}
+      ],
+      "labs": [
+        {"Physics Laboratory-II": 2},
+        {"Chemistry Laboratory-II": 2},
+        {"Engineering Graphics Laboratory": 2},
+        {"C Programming Laboratory": 2}
+      ]
+    },
+    "3": {
+      "url": "https://firebasestorage.googleapis.com/v0/b/tsec-app.appspot.com/o/syllabus%2Fcomputer_sem3_sem4_rev.pdf?alt=media&token=964d424d-c3b2-4a66-81e9-e54ad151ff2c",
+      "subjects": [
+        {"Engineering Mathematics-III": 4},
+        {"Discrete Structures and Graph Theory": 3},
+        {"Data Structure": 3},
+        {"Digital Logic & Computer Architecture": 3},
+        {"Computer Graphics": 3}
+      ],
+      "labs": [
+        {"Data Structure Laboratory": 2},
+        {"Digital Logic Laboratory": 2},
+        {"Computer Graphics Laboratory": 2}
+      ]
+    },
+    "4": {
+      "url": "https://firebasestorage.googleapis.com/v0/b/tsec-app.appspot.com/o/syllabus%2Fcomputer_sem3_sem4_rev.pdf?alt=media&token=964d424d-c3b2-4a66-81e9-e54ad151ff2c",
+      "subjects": [
+        {"Engineering Mathematics-IV": 4},
+        {"Analysis of Algorithm": 3},
+        {"Database Management System": 3},
+        {"Operating System": 3},
+        {"Microprocessor": 3}
+      ],
+      "labs": [
+        {"Database Management Laboratory": 2},
+        {"Operating System Laboratory": 2},
+        {"Microprocessor Laboratory": 2}
+      ]
+    },
+    "5": {
+      "url": "https://firebasestorage.googleapis.com/v0/b/tsec-app.appspot.com/o/syllabus%2Fcomputer_sem5_rev.pdf?alt=media&token=26ca1b57-6c32-4a29-b89a-3780767f2faa",
+      "subjects": [
+        {"Theoretical Computer Science": 3},
+        {"Software Engineering": 3},
+        {"Computer Network": 3},
+        {"Data Warehousing & Mining": 3},
+        {"Probabilistic Graphical Models": 3},
+        {"Internet Programming": 3},
+        {"Advanced Database Management System": 3}
+      ],
+      "labs": [
+        {"Computer Network Laboratory": 2},
+        {"Internet Programming Laboratory": 2},
+        {"Database Laboratory": 2}
+      ]
+    },
+    "6": {
+      "url": "https://firebasestorage.googleapis.com/v0/b/tsec-app.appspot.com/o/syllabus%2Fcomputer_sem6_rev.pdf?alt=media&token=1e8ff3b7-e6e8-46d5-8c68-f2b8c75832d5",
+      "subjects": [
+        {"System Programming & Compiler Construction": 3},
+        {"Cryptography & System Security": 3},
+        {"Mobile Computing": 3},
+        {"Artificial Intelligence": 3},
+        {"Internet of Things": 3},
+        {"Digital Signal & Image Processing": 3},
+        {"Quantitative Analysis": 3}
+      ],
+      "labs": [
+        {"Compiler Construction Laboratory": 2},
+        {"Cryptography Laboratory": 2},
+        {"IoT Laboratory": 2}
+      ]
+    },
+    "7": {
+      "url": "https://firebasestorage.googleapis.com/v0/b/tsec-app.appspot.com/o/syllabus%2Fcomps_sem7_sem8.pdf?alt=media&token=85fb96b3-c205-4085-9dc2-695824fd34ca",
+      "subjects": [
+        {"Digital Signal Processing": 3},
+        {"Cryptography and System Security": 3},
+        {"Artificial Intelligence": 3},
+        {"Elective II": 3}
+      ],
+      "labs": [
+        {"Network Threats and Attacks Laboratory": 2},
+        {"AI Laboratory": 2}
+      ]
+    },
+    "8": {
+      "url": "https://firebasestorage.googleapis.com/v0/b/tsec-app.appspot.com/o/syllabus%2Fcomps_sem7_sem8.pdf?alt=media&token=85fb96b3-c205-4085-9dc2-695824fd34ca",
+      "subjects": [
+        {"Data Warehouse and Mining": 3},
+        {"Human Machine Interaction": 3},
+        {"Parallel and Distributed Systems": 3},
+        {"Elective III": 3}
+      ],
+      "labs": [
+        {"Cloud Computing Laboratory": 2},
+        {"Data Science Laboratory": 2}
+      ]
+    }
+  }
+  

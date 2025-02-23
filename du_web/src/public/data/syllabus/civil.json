@@ -1,0 +1,118 @@
+{
+    "1": {
+      "url": "https://example.com/civil_sem1.pdf",
+      "subjects": [
+        {"Engineering Mathematics-I": 3},
+        {"Engineering Physics-I": 3},
+        {"Engineering Chemistry-I": 3},
+        {"Engineering Mechanics": 3},
+        {"Basic Civil Engineering": 3}
+      ],
+      "labs": [
+        {"Engineering Physics Laboratory": 1},
+        {"Engineering Chemistry Laboratory": 1},
+        {"Engineering Mechanics Laboratory": 1},
+        {"Basic Civil Engineering Laboratory": 1}
+      ]
+    },
+    "2": {
+      "url": "https://example.com/civil_sem2.pdf",
+      "subjects": [
+        {"Engineering Mathematics-II": 3},
+        {"Engineering Physics-II": 3},
+        {"Engineering Chemistry-II": 3},
+        {"Engineering Graphics": 3},
+        {"Surveying": 3},
+        {"Professional Communication and Ethics-I": 2}
+      ],
+      "labs": [
+        {"Surveying Laboratory": 2},
+        {"Engineering Graphics Laboratory": 2}
+      ]
+    },
+    "3": {
+      "url": "https://example.com/civil_sem3.pdf",
+      "subjects": [
+        {"Engineering Mathematics-III": 3},
+        {"Strength of Materials": 3},
+        {"Building Materials and Construction": 3},
+        {"Fluid Mechanics": 3},
+        {"Structural Analysis-I": 3}
+      ],
+      "labs": [
+        {"Strength of Materials Laboratory": 1},
+        {"Fluid Mechanics Laboratory": 1},
+        {"Building Materials Testing Laboratory": 1}
+      ]
+    },
+    "4": {
+      "url": "https://example.com/civil_sem4.pdf",
+      "subjects": [
+        {"Engineering Mathematics-IV": 3},
+        {"Geotechnical Engineering-I": 3},
+        {"Structural Analysis-II": 3},
+        {"Hydraulics and Water Resources Engineering": 3},
+        {"Transportation Engineering-I": 3}
+      ],
+      "labs": [
+        {"Geotechnical Engineering Laboratory": 1},
+        {"Hydraulics Laboratory": 1}
+      ]
+    },
+    "5": {
+      "url": "https://example.com/civil_sem5.pdf",
+      "subjects": [
+        {"Design of Reinforced Concrete Structures": 3},
+        {"Environmental Engineering-I": 3},
+        {"Geotechnical Engineering-II": 3},
+        {"Construction Planning and Management": 3},
+        {"Transportation Engineering-II": 3},
+        {"Elective-I": 3}
+      ],
+      "labs": [
+        {"Environmental Engineering Laboratory": 1},
+        {"Transportation Engineering Laboratory": 1}
+      ]
+    },
+    "6": {
+      "url": "https://example.com/civil_sem6.pdf",
+      "subjects": [
+        {"Design of Steel Structures": 3},
+        {"Environmental Engineering-II": 3},
+        {"Advanced Structural Analysis": 3},
+        {"Foundation Engineering": 3},
+        {"Elective-II": 3}
+      ],
+      "labs": [
+        {"Structural Engineering Laboratory": 1},
+        {"Environmental Engineering Laboratory": 1}
+      ]
+    },
+    "7": {
+      "url": "https://example.com/civil_sem7.pdf",
+      "subjects": [
+        {"Advanced Concrete Technology": 3},
+        {"Bridge Engineering": 3},
+        {"Remote Sensing & GIS": 3},
+        {"Construction Equipment & Techniques": 3},
+        {"Elective-III": 3}
+      ],
+      "labs": [
+        {"Remote Sensing & GIS Laboratory": 1}
+      ]
+    },
+    "8": {
+      "url": "https://example.com/civil_sem8.pdf",
+      "subjects": [
+        {"Urban Planning and Smart Cities": 3},
+        {"Disaster Management": 3},
+        {"Project Management": 3},
+        {"Professional Ethics and Corporate Social Responsibility": 2},
+        {"Elective-IV": 3}
+      ],
+      "labs": [
+        {"Major Project": 4}
+      ]
+    }
+  }
+  
